@@ -1,0 +1,62 @@
+body,html {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+input {
+  width: 10em;
+  color: #ffc6ff;
+  font-size: 50px;
+  font-family: 'Amatic SC', cursive;
+}
+
+
+p {
+  color: white;
+  font-size: 2em;
+  font-weight: 600;
+}
+
+
+label{
+  font-size: 50px;
+}
+
+body {
+  background-color: #caffbf;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  color: #a0c4ff;
+  font-weight: 200;
+  font-size: 5em;
+}
+
+h2 {
+  color: #ffd6a5;
+  font-weight: 600;
+  font-size: 5vh;
+}
+
+button {
+  background-color: #fffffc;
+  color: #ffadad;
+  font-size: 2em;
+  font-family: 'Amatic SC', cursive;
+
+}
+
+div {
+  border: 5px #9bf6ff solid;
+  background-color: #94ced1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
